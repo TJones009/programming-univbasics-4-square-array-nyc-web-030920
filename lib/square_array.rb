@@ -8,5 +8,4 @@ def square_array(array)
     x +=1 
   end
   squared
-
 end
